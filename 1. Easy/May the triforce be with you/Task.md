@@ -1,1 +1,0 @@
-https://www.codingame.com/training/easy/may-the-triforce-be-with-you/
