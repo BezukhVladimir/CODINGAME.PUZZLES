@@ -46,12 +46,12 @@ S and the binary codes Bi have a length less that or equal to 5000.
 
 ## Example
 ### Input
-5
-1 97
-001 98
-000 114
-011 99
-010 100
+5 <br> 
+1 97 <br>
+001 98 <br>
+000 114 <br>
+011 99 <br>
+010 100 <br>
 10010001011101010010001
 
 ### Output
