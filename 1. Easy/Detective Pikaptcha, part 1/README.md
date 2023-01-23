@@ -6,6 +6,7 @@ Detective Pikaptcha is investigating a disturbance in the spacetime continuum. I
 
 Your objective is to write a program that will compute, for each cell of a grid, the number of adjacent passages.
 
+## Rules
 You're given a grid filled with 0 and #, where 0 represents a passage, and # represents a wall: an impassable cell.
 
 We're considering the 4-adjacency, meaning a cell has a maximum of 4 adjacent cells (a diagonal cell is not adjacent).
