@@ -37,8 +37,8 @@ Next N lines: A binary code Bi and an integer Ci, which tells that the character
 Next line: The binary code S of an encoded string.
 
 ## Output
-- If it is not possible to decode the encoded string, print DECODE FAIL AT INDEX i with i the first index in the encoded string where the decoding fails (index starts from 0).
-- Otherwise print the decoded string.
+If it is not possible to decode the encoded string, print DECODE FAIL AT INDEX i with i the first index in the encoded string where the decoding fails (index starts from 0).  <br>
+Otherwise print the decoded string.
 
 ## Constraints
 0 ≤ N, C ≤ 127 <br>
