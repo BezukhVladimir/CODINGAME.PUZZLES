@@ -12,8 +12,8 @@ A[1] = 3
 You are given a list of n array definitions and your job is to figure out what number is found in a given index i of an array arr. Note that the indexing operations may be nested (in the above example, A[A[-1]] would produce result 3).
 
 ## Input
-Line 1: An integer n for the number of array assignments
-Next n lines: One array assignment per line: array_identifier [ first_index .. last_index ] = last_index - first_index + 1 integers separated by space
+Line 1: An integer n for the number of array assignments <br>
+Next n lines: One array assignment per line: array_identifier [ first_index .. last_index ] = last_index - first_index + 1 integers separated by space <br>
 Line n+2: Element to print: arr [ i ]
 
 ## Output
