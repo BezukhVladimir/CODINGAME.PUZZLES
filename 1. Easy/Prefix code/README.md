@@ -1,6 +1,7 @@
-[Prefix code from CodinGame](https://www.codingame.com/training/easy/prefix-code/)
+# Prefix code
+https://www.codingame.com/training/easy/prefix-code/
 
-#Goal
+## Goal
 Given a fixed set of characters, a code is a table that gives the encoding to use for each character.
 
 A prefix code is a code with the prefix property, which is that there is no character with an encoding that is a prefix (initial segment) of the encoding of another character.
@@ -30,21 +31,21 @@ What's next?
 Once you have solved this puzzle, you can continue the challenge by building efficient prefix codes:
 https://www.codingame.com/training/medium/huffman-code
 
-##Input
+## Input
 Line 1: A single integer N representing the number of association in the prefix-code table.
 Next N lines: A binary code Bi and an integer Ci, which tells that the character with ASCII code Ci will be encoded by Bi.
 Next line: The binary code S of an encoded string.
 
-##Output
+## Output
 - If it is not possible to decode the encoded string, print DECODE FAIL AT INDEX i with i the first index in the encoded string where the decoding fails (index starts from 0).
 - Otherwise print the decoded string.
 
-##Constraints
+## Constraints
 0 ≤ N, C ≤ 127
 S and the binary codes Bi have a length less that or equal to 5000.
 
-##Example
-###Input
+## Example
+### Input
 5
 1 97
 001 98
@@ -53,5 +54,5 @@ S and the binary codes Bi have a length less that or equal to 5000.
 010 100
 10010001011101010010001
 
-###Output
+### Output
 abracadabra
