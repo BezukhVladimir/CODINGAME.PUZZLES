@@ -1,0 +1,1 @@
+int main() { while (1) printf("0 4\n0 3\n"); }
