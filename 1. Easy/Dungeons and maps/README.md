@@ -59,11 +59,11 @@ N * H Lines: Each H consecutive lines are representing a single map. Each line c
 
 Characters can be: <br>
 . - Empty square <br>
-# - Wall <br>
+\# - Wall <br>
 ^ - Move UP <br>
 v - Move DOWN <br>
 < - Move LEFT <br>
-> - Move RIGHT <br>
+\> - Move RIGHT <br>
 T - The treasure square
 
 ## Output
