@@ -1,4 +1,4 @@
-
+# Detective Pikaptcha, part 2
 https://www.codingame.com/training/easy/detective-pikaptcha-ep2/
 
 ## Goal
