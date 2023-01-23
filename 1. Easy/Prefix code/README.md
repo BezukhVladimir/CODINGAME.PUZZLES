@@ -32,8 +32,8 @@ Once you have solved this puzzle, you can continue the challenge by building eff
 https://www.codingame.com/training/medium/huffman-code
 
 ## Input
-Line 1: A single integer N representing the number of association in the prefix-code table.
-Next N lines: A binary code Bi and an integer Ci, which tells that the character with ASCII code Ci will be encoded by Bi.
+Line 1: A single integer N representing the number of association in the prefix-code table. <br>
+Next N lines: A binary code Bi and an integer Ci, which tells that the character with ASCII code Ci will be encoded by Bi. <br>
 Next line: The binary code S of an encoded string.
 
 ## Output
