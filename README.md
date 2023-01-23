@@ -1,6 +1,6 @@
-# (CODINGAME) PUZZLES
+# PUZZLES (CODINGAME)
 
-My CodinGame profile:
+## CodinGame profile
 https://www.codingame.com/profile/111b9498b7ca74b1816aa6a42ee63f8a2922772/
 
 ## License
