@@ -1,7 +1,7 @@
 # Dungeons and maps
 https://www.codingame.com/training/easy/dungeons-and-maps/
 
-Goal
+## Goal
 Your adventure path led you to an inn in a small, forgotten town somewhere to the North of Golem Hills. <br>
 After gulping the last drop from the 9th mug of elf wine a shady old man materializes out of nowhere, in-front of you. <br>
 You start to doubt the wine. <br>
