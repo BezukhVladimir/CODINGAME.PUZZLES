@@ -31,23 +31,25 @@ N = 3 <br>
 
 Maps: <br>
 0 <br>
-.>>v <br>
-.^#v <br>
-..#v <br>
-...T
+
+    .>>v
+    .^#v
+    ..#v
+    ...T
 
 1 <br>
-.... <br>
-.v#. <br>
-.v#. <br>
-.>>T
+
+    .... 
+    .v#.
+    .v#.
+    .>>T
 
 2 <br>
-.... <br>
-v<#. <br>
-v.#. <br>
-..>T
 
+    ....
+    v<#.
+    v.#.
+    ..>T
 
 In the above example map 2 does not contain a valid path from [1; 1] to T, map 0 contains a valid path with length 7 (the count of the direction symbols + T) and map 1 contains a valid path with length 5, so the answer is 1.
 
@@ -81,18 +83,19 @@ The given maps are representing the same dungeon, but the position for T may dif
 4 4 <br>
 1 1 <br>
 3 <br>
-.>>v <br>
-.^#v <br>
-..#v <br>
-...T <br>
-.... <br>
-.v#. <br>
-.v#. <br>
-.>>T <br>
-.... <br>
-v<#. <br>
-v.#. <br>
-..>T
+
+    .>>v 
+    .^#v
+    ..#v
+    ...T
+    ....
+    .v#.
+    .v#.
+    .>>T
+    ....
+    v<#.
+    v.#.
+    ..>T
 
 ### Output
 1
