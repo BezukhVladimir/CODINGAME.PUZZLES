@@ -25,7 +25,7 @@ and in case of a tie, the player with the lowest number wins (it's scandalous bu
 
 ## Input
 Line 1: an integer N representing the number of participants in the competition <br>
-Lines 2 to N+1: an integer NUMPLAYER indicating the player number (players have distinct numbers between 1 and N) followed by a letter 'R', 'P', 'C', 'L' or 'S' <br> indicating the chosen sign SIGNPLAYER
+Lines 2 to N+1: an integer NUMPLAYER indicating the player number (players have distinct numbers between 1 and N) followed by a letter 'R', 'P', 'C', 'L' or 'S' indicating the chosen sign SIGNPLAYER
 
 ## Output
 Line 1: the number of the winner <br>
