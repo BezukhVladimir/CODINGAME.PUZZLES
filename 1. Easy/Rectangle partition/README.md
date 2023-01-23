@@ -11,6 +11,21 @@ Draw perpendicular lines from the measurements to partition the rectangle into s
 
 In all sub-rectangles (include the combinations of smaller rectangles), how many of them are squares?
 
+Example
+w = 10 <br>
+h = 5 <br>
+measurements on x-axis: 2, 5 <br>
+measurements on y-axis: 3 <br>
+
+       ___2______5__________ 
+      |   |      |          |
+      |   |      |          |
+     3|___|______|__________|
+      |   |      |          |
+      |___|______|__________|
+
+Number of squares in sub-rectangles = 4 (one 2x2, one 3x3, two 5x5)
+
 ## Input
 Line 1: Integers w h countX countY, separated by space <br>
 Line 2: list of measurements on the width side, countX integers separated by space, sorted in asc order <br>
